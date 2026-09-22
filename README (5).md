@@ -47,7 +47,7 @@ plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
 plt.title('Input Image')
 plt.axis('off')
 ```
-<img width="868" height="458" alt="image" src="https://github.com/user-attachments/assets/bf120b12-f83a-47d7-a4e2-103b31b07e33" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/0d461542-925e-4c69-8ec0-7c8110ecc4c6" />
 
 ```
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
@@ -56,7 +56,7 @@ plt.title('Grayscale Image')
 plt.axis('off')
 
 ```
-<img width="815" height="447" alt="image" src="https://github.com/user-attachments/assets/f1a1fe93-aa1e-4e63-8923-274021e499a6" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/92519b56-1039-4486-885e-db73c8c05d9e" />
 
 ### Canny Edge detector output
 ```
@@ -66,7 +66,7 @@ plt.title('Grayscale Image')
 plt.axis('off')
 ```
 
-<img width="994" height="449" alt="image" src="https://github.com/user-attachments/assets/07f5036f-aca9-48fd-9982-71a68b05ba10" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/44ee9efd-df3f-430a-a5cc-99c802daa2a9" />
 
 
 ### Display the result of Hough transform
@@ -83,7 +83,7 @@ plt.title('Hough Transform - Line Detection')
 plt.axis('off')
 
 ```
-<img width="846" height="459" alt="image" src="https://github.com/user-attachments/assets/04f98ebe-b76f-48b9-8dbd-eec5eec2fe4c" />
+<img width="302" height="411" alt="image" src="https://github.com/user-attachments/assets/615ea392-f67c-4749-9c95-edaa6332e25e" />
 
 
 
